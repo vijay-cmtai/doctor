@@ -1,0 +1,752 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Anjali Sharma",
+    "specialty": "Cardiologist",
+    "address": {
+      "street": "123 Heartbeat Ave",
+      "subarea": "Sector 14",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122001"
+    },
+    "phone": "+91 9876543210",
+    "email": "anjali.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rohan Mehta",
+    "specialty": "Pediatrician",
+    "address": {
+      "street": "45 Kids Lane",
+      "subarea": "Bandra",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400050"
+    },
+    "phone": "+91 9876543211",
+    "email": "rohan.mehta@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Priya Singh",
+    "specialty": "Dermatologist",
+    "address": {
+      "street": "78 Glow Street",
+      "subarea": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560034"
+    },
+    "phone": "+91 9876543212",
+    "email": "priya.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Amit Kumar",
+    "specialty": "Orthopedic Surgeon",
+    "address": {
+      "street": "90 Bone Road",
+      "subarea": "Dwarka",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110075"
+    },
+    "phone": "+91 9876543213",
+    "email": "amit.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Neha Gupta",
+    "specialty": "Gynecologist",
+    "address": {
+      "street": "10 Women's Way",
+      "subarea": "Salt Lake",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700091"
+    },
+    "phone": "+91 9876543214",
+    "email": "neha.gupta@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Vivek Sharma",
+    "specialty": "Neurologist",
+    "address": {
+      "street": "21 Brain Street",
+      "subarea": "Gachibowli",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500032"
+    },
+    "phone": "+91 9876543215",
+    "email": "vivek.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Pooja Devi",
+    "specialty": "Ophthalmologist",
+    "address": {
+      "street": "33 Eye Care Road",
+      "subarea": "Adarsh Nagar",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "302004"
+    },
+    "phone": "+91 9876543216",
+    "email": "pooja.devi@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "8",
+    "name": "Dr. Sanjay Yadav",
+    "specialty": "Urologist",
+    "address": {
+      "street": "44 Kidney Lane",
+      "subarea": "Viman Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411014"
+    },
+    "phone": "+91 9876543217",
+    "email": "sanjay.yadav@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "9",
+    "name": "Dr. Ritu Verma",
+    "specialty": "Endocrinologist",
+    "address": {
+      "street": "55 Hormone House",
+      "subarea": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600040"
+    },
+    "phone": "+91 9876543218",
+    "email": "ritu.verma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "10",
+    "name": "Dr. Alok Singh",
+    "specialty": "Gastroenterologist",
+    "address": {
+      "street": "66 Gut Road",
+      "subarea": "Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560038"
+    },
+    "phone": "+91 9876543219",
+    "email": "alok.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "11",
+    "name": "Dr. Kavita Rao",
+    "specialty": "Pulmonologist",
+    "address": {
+      "street": "77 Lung Lane",
+      "subarea": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500033"
+    },
+    "phone": "+91 9876543220",
+    "email": "kavita.rao@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "12",
+    "name": "Dr. Manish Sharma",
+    "specialty": "Oncologist",
+    "address": {
+      "street": "88 Cancer Care",
+      "subarea": "Malad",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400064"
+    },
+    "phone": "+91 9876543221",
+    "email": "manish.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "13",
+    "name": "Dr. Deepika Reddy",
+    "specialty": "Nephrologist",
+    "address": {
+      "street": "99 Kidney Clinic",
+      "subarea": "Kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500072"
+    },
+    "phone": "+91 9876543222",
+    "email": "deepika.reddy@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "14",
+    "name": "Dr. Rajesh Singh",
+    "specialty": "Rheumatologist",
+    "address": {
+      "street": "110 Joint Care",
+      "subarea": "Civil Lines",
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "zip": "211001"
+    },
+    "phone": "+91 9876543223",
+    "email": "rajesh.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "15",
+    "name": "Dr. Shweta Jain",
+    "specialty": "Psychiatrist",
+    "address": {
+      "street": "11 Mind Road",
+      "subarea": "Sector 18",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122008"
+    },
+    "phone": "+91 9876543224",
+    "email": "shweta.jain@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "16",
+    "name": "Dr. Vikram Patel",
+    "specialty": "Anesthesiologist",
+    "address": {
+      "street": "22 Sleepy Lane",
+      "subarea": "Navrangpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "380009"
+    },
+    "phone": "+91 9876543225",
+    "email": "vikram.patel@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "17",
+    "name": "Dr. Smita Rao",
+    "specialty": "Radiologist",
+    "address": {
+      "street": "33 X-Ray Street",
+      "subarea": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560102"
+    },
+    "phone": "+91 9876543226",
+    "email": "smita.rao@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "18",
+    "name": "Dr. Arjun Das",
+    "specialty": "General Surgeon",
+    "address": {
+      "street": "44 Scalpel Road",
+      "subarea": "Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700016"
+    },
+    "phone": "+91 9876543227",
+    "email": "arjun.das@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "19",
+    "name": "Dr. Preeti Sharma",
+    "specialty": "Dietitian",
+    "address": {
+      "street": "55 Healthy Lane",
+      "subarea": "Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411001"
+    },
+    "phone": "+91 9876543228",
+    "email": "preeti.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "20",
+    "name": "Dr. Rahul Verma",
+    "specialty": "Physiotherapist",
+    "address": {
+      "street": "66 Movement Road",
+      "subarea": "DLF Phase 3",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122002"
+    },
+    "phone": "+91 9876543229",
+    "email": "rahul.verma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "21",
+    "name": "Dr. Sunita Devi",
+    "specialty": "Dentist",
+    "address": {
+      "street": "77 Tooth Fairy Lane",
+      "subarea": "Janakpuri",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110058"
+    },
+    "phone": "+91 9876543230",
+    "email": "sunita.devi@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "22",
+    "name": "Dr. Akash Singh",
+    "specialty": "ENT Specialist",
+    "address": {
+      "street": "88 Ear Nose Throat",
+      "subarea": "Velachery",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600042"
+    },
+    "phone": "+91 9876543231",
+    "email": "akash.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "23",
+    "name": "Dr. Meena Kumari",
+    "specialty": "Pediatric Cardiologist",
+    "address": {
+      "street": "99 Little Heart",
+      "subarea": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500034"
+    },
+    "phone": "+91 9876543232",
+    "email": "meena.kumari@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "24",
+    "name": "Dr. Pawan Gupta",
+    "specialty": "Plastic Surgeon",
+    "address": {
+      "street": "111 New Look",
+      "subarea": "Andheri",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400053"
+    },
+    "phone": "+91 9876543233",
+    "email": "pawan.gupta@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "25",
+    "name": "Dr. Suman Sharma",
+    "specialty": "Allergist",
+    "address": {
+      "street": "122 Allergy Clinic",
+      "subarea": "Sector 29",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122007"
+    },
+    "phone": "+91 9876543234",
+    "email": "suman.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "26",
+    "name": "Dr. Dinesh Kumar",
+    "specialty": "Infectious Disease Specialist",
+    "address": {
+      "street": "133 Germ Guard",
+      "subarea": "Lajpat Nagar",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110024"
+    },
+    "phone": "+91 9876543235",
+    "email": "dinesh.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "27",
+    "name": "Dr. Rina Das",
+    "specialty": "Geriatrician",
+    "address": {
+      "street": "144 Elder Care",
+      "subarea": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560041"
+    },
+    "phone": "+91 9876543236",
+    "email": "rina.das@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "28",
+    "name": "Dr. Gopal Singh",
+    "specialty": "Sports Medicine Specialist",
+    "address": {
+      "street": "155 Sports Injury",
+      "subarea": "Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411038"
+    },
+    "phone": "+91 9876543237",
+    "email": "gopal.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "29",
+    "name": "Dr. Meera Sharma",
+    "specialty": "Geneticist",
+    "address": {
+      "street": "166 DNA Lane",
+      "subarea": "T Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600017"
+    },
+    "phone": "+91 9876543238",
+    "email": "meera.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "30",
+    "name": "Dr. Suresh Kumar",
+    "specialty": "Emergency Medicine",
+    "address": {
+      "street": "177 ER Road",
+      "subarea": "Madhapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500081"
+    },
+    "phone": "+91 9876543239",
+    "email": "suresh.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "31",
+    "name": "Dr. Nisha Patel",
+    "specialty": "Pain Management",
+    "address": {
+      "street": "188 Relief Clinic",
+      "subarea": "Satellite",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "380015"
+    },
+    "phone": "+91 9876543240",
+    "email": "nisha.patel@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "32",
+    "name": "Dr. Rohit Singh",
+    "specialty": "Sleep Medicine Specialist",
+    "address": {
+      "street": "199 Sleep Lab",
+      "subarea": "Rajouri Garden",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110027"
+    },
+    "phone": "+91 9876543241",
+    "email": "rohit.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "33",
+    "name": "Dr. Aarti Gupta",
+    "specialty": "Addiction Medicine",
+    "address": {
+      "street": "200 Recovery Center",
+      "subarea": "Whitefield",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560066"
+    },
+    "phone": "+91 9876543242",
+    "email": "aarti.gupta@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "34",
+    "name": "Dr. Pankaj Sharma",
+    "specialty": "Forensic Pathologist",
+    "address": {
+      "street": "211 Crime Lab",
+      "subarea": "Chembur",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400071"
+    },
+    "phone": "+91 9876543243",
+    "email": "pankaj.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "35",
+    "name": "Dr. Kiran Rao",
+    "specialty": "Occupational Medicine",
+    "address": {
+      "street": "222 Work Health",
+      "subarea": "Sector 44",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122003"
+    },
+    "phone": "+91 9876543244",
+    "email": "kiran.rao@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "36",
+    "name": "Dr. Vinod Kumar",
+    "specialty": "Public Health Specialist",
+    "address": {
+      "street": "233 Community Health",
+      "subarea": "Rohini",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110085"
+    },
+    "phone": "+91 9876543245",
+    "email": "vinod.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "37",
+    "name": "Dr. Shanti Devi",
+    "specialty": "Sports Psychologist",
+    "address": {
+      "street": "244 Mind & Sport",
+      "subarea": "Electronic City",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560100"
+    },
+    "phone": "+91 9876543246",
+    "email": "shanti.devi@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "38",
+    "name": "Dr. Ashok Sharma",
+    "specialty": "Clinical Geneticist",
+    "address": {
+      "street": "255 Gene Clinic",
+      "subarea": "Hadapsar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411028"
+    },
+    "phone": "+91 9876543247",
+    "email": "ashok.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "39",
+    "name": "Dr. Geeta Singh",
+    "specialty": "Reproductive Endocrinologist",
+    "address": {
+      "street": "266 Fertility Center",
+      "subarea": "Nungambakkam",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600034"
+    },
+    "phone": "+91 9876543248",
+    "email": "geeta.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "40",
+    "name": "Dr. Harish Reddy",
+    "specialty": "Transplant Surgeon",
+    "address": {
+      "street": "277 Organ Transplant",
+      "subarea": "Kondapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500084"
+    },
+    "phone": "+91 9876543249",
+    "email": "harish.reddy@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "41",
+    "name": "Dr. Pooja Sharma",
+    "specialty": "Cardiologist",
+    "address": {
+      "street": "301 Heartbeat Lane",
+      "subarea": "Sector 56",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122011"
+    },
+    "phone": "+91 9876543250",
+    "email": "pooja.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "42",
+    "name": "Dr. Sameer Khan",
+    "specialty": "Pediatrician",
+    "address": {
+      "street": "302 Little Wonders",
+      "subarea": "Versova",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400061"
+    },
+    "phone": "+91 9876543251",
+    "email": "sameer.khan@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "43",
+    "name": "Dr. Ritu Agarwal",
+    "specialty": "Dermatologist",
+    "address": {
+      "street": "303 Skin Clinic",
+      "subarea": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560041"
+    },
+    "phone": "+91 9876543252",
+    "email": "ritu.agarwal@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "44",
+    "name": "Dr. Vikas Gupta",
+    "specialty": "Orthopedic Surgeon",
+    "address": {
+      "street": "304 Bone & Joint",
+      "subarea": "Saket",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110017"
+    },
+    "phone": "+91 9876543253",
+    "email": "vikas.gupta@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "45",
+    "name": "Dr. Shalini Singh",
+    "specialty": "Gynecologist",
+    "address": {
+      "street": "305 Women's Health",
+      "subarea": "New Town",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700156"
+    },
+    "phone": "+91 9876543254",
+    "email": "shalini.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "46",
+    "name": "Dr. Naveen Kumar",
+    "specialty": "Neurologist",
+    "address": {
+      "street": "306 Brain & Nerve",
+      "subarea": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500034"
+    },
+    "phone": "+91 9876543255",
+    "email": "naveen.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "47",
+    "name": "Dr. Swati Sharma",
+    "specialty": "Ophthalmologist",
+    "address": {
+      "street": "307 Vision Care",
+      "subarea": "Vaishali Nagar",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "302021"
+    },
+    "phone": "+91 9876543256",
+    "email": "swati.sharma@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "48",
+    "name": "Dr. Pradeep Yadav",
+    "specialty": "Urologist",
+    "address": {
+      "street": "308 Urology Clinic",
+      "subarea": "Hinjewadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411057"
+    },
+    "phone": "+91 9876543257",
+    "email": "pradeep.yadav@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "49",
+    "name": "Dr. Megha Singh",
+    "specialty": "Endocrinologist",
+    "address": {
+      "street": "309 Diabetes Center",
+      "subarea": "Adyar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600020"
+    },
+    "phone": "+91 9876543258",
+    "email": "megha.singh@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": "50",
+    "name": "Dr. Gaurav Kumar",
+    "specialty": "Gastroenterologist",
+    "address": {
+      "street": "310 Digestive Health",
+      "subarea": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560034"
+    },
+    "phone": "+91 9876543259",
+    "email": "gaurav.kumar@example.com",
+    "image": "/placeholder.svg?height=100&width=100"
+  }
+]
